@@ -1,0 +1,7 @@
+DEPENDENCIES
+  sudo (~> 3.5.3)
+  users (~> 5.1.0)
+
+GRAPH
+  sudo (3.5.3)
+  users (5.1.0)
