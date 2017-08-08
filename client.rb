@@ -1,1 +1,1 @@
-cookbook_path   ["/etc/chef/cookbooks"]
+cookbook_path   ["/etc/chef/cookbooks", "/etc/chef/site-cookbooks"]
