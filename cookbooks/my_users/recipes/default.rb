@@ -21,6 +21,6 @@ end
     end
 end
 
-node['authorization']['sudo']['groups'] = [ "sysadmin", "sysops" ]
+node.default['authorization']['sudo']['groups'] = [ "sysadmin", "sysops" ]
 node.default['authorization']['sudo']['passwordless'] = true
 include_recipe "sudo"
