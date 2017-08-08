@@ -11,7 +11,7 @@ end
 
 users_manage "docker" do
     group_id 2147
-    action [ :manage ]
+    action [ :remove, :create ]
 end
 
 
