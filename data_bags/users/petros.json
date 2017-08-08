@@ -1,0 +1,9 @@
+{
+  "id"       : "petros",
+  "comment"  : "Petros Eskinder",
+  "home"     : "/home/petros",
+  "groups"   : ["docker", "sysops"],
+  "ssh_keys" : [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC7l/PM+T4ByjpzrYVyVPjwsfghfaFuDTFkGKLMiXZErx4XoutqeYdck6O/h/NdKqa98RPjvTaJCK+Declz3OpDu/jXSQSTIP9eU5GSHCDiTgmesbMz8VpjMS3fyrP5Kb1MXfRhDdjcpmZhIc1qrxMGZguYbo+Hzz19f//DVqgtI4Zyq1onFOhSxJdZ5anmF3D8IuQ821b2bQoWkgSZLmiELqNi54q6kI8G/apPW76gGytfCkI1CF/kxPrW6yOdIUv3UM3iu8vdsPQv/UY8WvUYcySjUol9JfcX0cf6ejRpf8/j3hcISgDTv3sPVix+rvc4eOgcmmo6z0ZcDPhAiYGVvvYluP5zD5DQX8OUFIYfsvxTMp4rNAkG9figVZjCokM498w9ONLVwEzeFITjJiTTZ40o8q5uH59jS2bgPFdyh436WMYb8NdiIowaJotCFVnn/PIn8I9gukorhqTbNw/Q62Ci3QJR0La7PkcdjmmBbhuW1qCs59ZwkonqSCKSNw9V5oEmG9fbogS/YIW5CrvZ2NrhGpoxtwkvPVEnAp5e8f6ljsjhI4zbGIn6fv4/UaahTiL0Uy7Y0FLtnbvQsblI2tZLMeaX9XQ+9j7c4eBBUUohZtbRK2TiEyGcLWewi2F8Wal15MzNLgAIO8/NQo6tfJzyIV9wWAyomM+WUHfXfQ=="
+  ]
+}
