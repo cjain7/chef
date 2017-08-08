@@ -10,7 +10,7 @@ users_manage "sysops" do
 end
 
 users_manage "docker" do
-    group_id 2147
+    group_id 2148
     action [ :remove, :create ]
 end
 
