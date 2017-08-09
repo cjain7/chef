@@ -1,0 +1,8 @@
+{
+  "id"       : "david",
+  "comment"  : "David Meyer",
+  "home"     : "/home/david",
+  "groups"   : ["docker", "sysops"],
+  "ssh_keys" : ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDJn2gBbBowXkuzxWDlfjWrwI/JHbCKeZxzPTU/ARGmyPHBn25kYBmTS8BOCClazfBdNGVJMsb6gm/nlKIhciZ8AsRthuYMU7xyM3j6nJajX6LmfzO7LsUkP4nDSHkpo5nzgpbCp2stBsOigx9pzkVYKiwHJb1uv4RHGr5qkwjqIdCYP/HN1qan2Q8Vr6OLjMZ9OZ268KJroZtz4hWJQW+fFZsQ84YlVI4Juz/0sIBT9woCUy8zfPwZ4sB/R7DX28jnkOglvKTprIKFFEMY9a4brmYVrTjeYtMoSoakcKqzqhSmqzd4TKoDYgMrdoDfpZrRj2Lji1ZQmfbQMylLVKCwOQpk3IA8T7rzVs8MDL/NWlo7YHSboc6N4KPQmmI0PXBn07pDvW1YU6Jak+pMu328A7vAUu3PMJR4aY1sL/fKTICExB7QQS6qCx7s3ta4hMhZ040W62UZ5qQH2yH8JkjxVmql3wwMvMPWei8j0R8BB1LnPmkobhHoH1er+EX3hiovnmbMHcjl2+euxADL/7DMwOGKAriGDBrFzjh9MRdXchgbqnwI/tD2lFDOUCCEnT+3KVV2O+9Y8fmFkWonFrq+oe+2KCGE8dhoxE+7rzxqf+d0R10W0UasNd6Lbz87jWazqUDBrIRaBsBAHftC6Ia4NUlYbFev+Sz+e1UjXOr+lQ== dmbluesmith@gmail.com
+"]
+}
