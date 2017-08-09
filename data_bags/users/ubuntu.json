@@ -1,0 +1,9 @@
+{
+  "id"       : "ubuntu",
+  "comment"  : "Default sudo user",
+  "home"     : "/home/ubuntu",
+  "groups"   : ["sudo", "sysops"],
+  "ssh_keys" : [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA5Q4w9WiS0RO98oOhNU3cAmK21rVyuq6je3pUNMZna+45wQIKlRfaAtmUnWXoZoYgXEM4bSjnsP2NSeHYqqlhLn400/NTm4OROgaOzXar/JAR4Bifp63nWwPZTLrTnk/JxGBWgVR6nv08rIzCHoc0eCo0jpRZTG4+aFRh/OFkriF4zvTItwwyUqup2QsdIa8WgYOsyuU+VCeEgzYGecMmikzYKgCtEkrowrcdd+X3xipQiKUWGg6kXKAXBfxakWSYfDg2t5SWSn3G9zSsx0aPY/yGxDwm98NgmqowCLWEC4R99GzE0iYJIDThuavvf4/k2slK+x1TzGEIoaABZST8mw=="
+  ]
+}
