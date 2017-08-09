@@ -1,0 +1,9 @@
+{
+  "id"       : "cjain7",
+  "comment"  : "Chirag Jain",
+  "home"     : "/home/cjain7",
+  "groups"   : ["docker", "sysops"],
+  "ssh_keys" : [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDC7f9i2JfHKCGoa9jXqsRuDJ7siOzjsXioFQYHSpq89dXIHhce2vW7IXXV8n5rxo0hL4q5Z+Aifj6mjMa9a3Ovyzr0+dAgFgprscqORUPZIGOTlKrrjh1pYfZC1Y1dvH34V8FmITnro961ZtIY1QI8OgRVMFyFKjgI5uMN6JZjWFty1kM0QTybOmApIFAiPphGaHMMDZhcMUoNLeaCkjQ8X2LTlouvdBVMpzQ7aPm7QQCrfA4tdEgPmZSn/FTD4jHI/lBqekW7e6TlPF5aTGAlgA6Wri/wjwD61s0XnOPmNerQBAZrdz8pxtg+qdJAuGnNQgJfDTUt8rGHEm5nNvlv jainc2@ors-01922007.ors.nih.gov"
+  ]
+}
