@@ -15,12 +15,12 @@ users_manage "docker" do
 end
 
 
-%w( sysadmin ).each do |group|
+%w( sysadmin sudo ).each do |group|
     users_manage group do
         action [ :remove, :create ]
     end
 end
 
-node.default['authorization']['sudo']['groups'] = [ "sysadmin", "sysops" ]
+node.default['authorization']['sudo']['groups'] = [ "sysadmin", "sysops", "sudo" ]
 node.default['authorization']['sudo']['passwordless'] = true
 include_recipe "sudo"
