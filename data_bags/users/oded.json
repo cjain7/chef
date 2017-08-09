@@ -1,0 +1,9 @@
+{
+  "id"       : "ogreen",
+  "comment"  : "Oded Green",
+  "home"     : "/home/ogreen",
+  "groups"   : ["docker", "sysops"],
+  "ssh_keys" : [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC+JgfzfLqXKGMmXDu8LsATGzy+2i9b7Fo1R3qtk5obzSLiM0/pZnm86wfSi37/5Q/WWprlYlL3mSqElCVTkal8WxJiOEmVNBQFbNWVPFd0+Py2HNDH6AZSsfDkLTSdz3+dtp6jjZ64o9bEDWf0/8betxeVVn2grJQb8CCYCOjI4g3gaby3zZLhY3lkoIUIAupTX7XUr1da3hubc4jrtuQKaYKLGAusP6FT5mC6hShkLiC/WSOEjz8u0nInPPJ8XK9q7PhgCvslHcC3Aq/jahCSDFZ0uM/C8GmRgJHFw294Im0xF02CD3eGVvoTi0Z+XyrGE74YviY08ITT/CDD+wHr greenman@iceman"
+  ]
+}
