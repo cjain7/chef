@@ -1,0 +1,10 @@
+{
+  "id"       : "cyclecloud",
+  "comment"  : "Cyclecloud User",
+  "home"     : "/home/cyclecloud",
+  "groups"   : ["docker", "sysops", "sudo],
+  "ssh_keys" : [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA5Q4w9WiS0RO98oOhNU3cAmK21rVyuq6je3pUNMZna+45wQIKlRfaAtmUnWXoZoYgXEM4bSjnsP2NSeHYqqlhLn400/NTm4OROgaOzXar/JAR4Bifp63nWwPZTLrTnk/JxGBWgVR6nv08rIzCHoc0eCo0jpRZTG4+aFRh/OFkriF4zvTItwwyUqup2QsdIa8WgYOsyuU+VCeEgzYGecMmikzYKgCtEkrowrcdd+X3xipQiKUWGg6kXKAXBfxakWSYfDg2t5SWSn3G9zSsx0aPY/yGxDwm98NgmqowCLWEC4R99GzE0iYJIDThuavvf4/k2slK+x1TzGEIoaABZST8mw==",
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDrXq06dencKiFSUEXJ+Ln4n4Vz8VSHvVG4262eRPdYmjd5Ev3xuP8x+bwVSXwNdbt/sB0XswRK7ufZPN+fIHEKB7lNOfUTubaq5273yoGca9RlajrYeqhhO5dEIHio+T91xELYp4S1GIJeaoNfeXtAApnpfBzupwkM8QhLE1D3tk2yNc2vwgvMnlzFLvKGhtkacOIBRLA3A3LcZM3aeqfFtcJv5tLY3mCFB6kfo6LManek9NIRp2dZQd01OhALVwOxFVMV9/04hcJbG/gcVfrB7WD/8zXb5kx9nN2gJ8PT8yJHTQgHfhq7YKAf8bw/IwdT19tICc7HrOlJhqjna1ht"
+  ]
+}
